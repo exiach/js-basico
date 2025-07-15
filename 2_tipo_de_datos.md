@@ -114,3 +114,6 @@ Declara un número muy grande usando `BigInt`.
 ---
 
 ¿Listo para seguir practicando? 🚀
+
+## Ver videos: 
+[lista de videos para una mejor comprension de Variables](https://www.youtube.com/watch?v=UUv-yBoT_Zk&list=PLGSnz-ERqn7gCi5Ab6hn-IfQgzJx9n-p0)

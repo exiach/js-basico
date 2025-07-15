@@ -2,6 +2,8 @@
 # 🧠 Variables en JavaScript
 
 ## Ver videos: 
+[lista de videos para una mejor comprension de Variables](https://www.youtube.com/watch?v=cf1UFRukxA8&list=PLGSnz-ERqn7jWF1kPjiCQUOakNx8WxIBR)
+
 
 ## ¿Qué es una variable?
 Una **variable** es como una **caja con un nombre** que usamos para **guardar datos**. Podemos poner un valor dentro de ella (por ejemplo, un número, un texto o un valor lógico) y usar ese valor más adelante.
